@@ -18,7 +18,7 @@ import {
   YouTubeIcon,
   LogoutIcon
 } from './components/icons';
-import { branding } from '../branding'; // Import brand configuration
+import { branding } from './branding'; // Import brand configuration
 
 const App: React.FC = () => {
   const [isAuthenticated, setIsAuthenticated] = useState<boolean>(false);
