@@ -1,0 +1,6 @@
+{
+  "name": "Medical Image Analysis",
+  "description": "AI-powered medical image analysis by HERE AND NOW AI. Upload medical images (JPG, PNG, DICOM) for insights. This tool uses the Gemini API and is for informational purposes, not a substitute for professional medical advice.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
